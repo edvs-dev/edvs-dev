@@ -8,3 +8,5 @@
 - Ele/Dele
 - Fato engraçado: ate um tempo desse, eu falava que o sol fazia o movimento "crescente" e "decrescente"
 -->
+
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
