@@ -35,6 +35,7 @@ Me chamo Eduardo Vieira, tenho 17 anos e sou natural do Rio Grande do Norte. Atu
     </a>
 </p>
 
+---
 
 ### 🤖 Linguagens e Tecnologias
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
