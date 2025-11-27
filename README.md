@@ -1,17 +1,14 @@
-## Opa! Eu sou Eduardo Vieira
+# Eduardo Vieira
 
-- Eu estou atualmente no começo da jornada em progamação
-- Neste estante aprendendo Python
-- Preciso de ajuda em varias coisas, mas principalmente em "tempo" - sim! TEMPO!!!
-- Pergunte pra mim qulquer coisa, mas depende se eu vou saber a resposta kkkkkkk
-- Eu sou bastante amigavel - so não me encode enquanto estou dormindo!!!
-- Ele/Dele
-- Fato engraçado: ate um tempo desse, eu falava que o sol fazia o movimento "crescente" e "decrescente"
--->
+**`Desenvolvedor em Constante Aprendizado`**
 
+Me chamo Eduardo Vieira, tenho 17 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando a segunda série do ensino médio. Sou extremamente interessado por tecnologia e pretendo compartilhar meu conhecimento através do meu canal no YouTube "[SkillUp「忍」](https://www.youtube.com/@SkillUpOficial)",onde compartilho meu diário de aprendizado, e também através do Instagram, com o perfil chamado "[edwardvieira_ss](hhttps://www.instagram.com/edwardvieira_ss/)".
+
+
+### 🤖 Linguagens e Tecnologias
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
 <p>
   <img 
